@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "stilltone": {
+      "command": "/Applications/Stilltone.app/Contents/Helpers/stilltone",
+      "args": ["mcp", "serve"]
+    }
+  }
+}
